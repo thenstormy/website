@@ -3743,6 +3743,29 @@ a.btn.disabled, fieldset[disabled] a.btn {
   background-color: #333;
 }
 
+
+
+
+
+
+.btn-altern {
+  color: #4fd2c2;
+  background-color: #fff !important;
+  border-color: #fff !important;
+}
+.btn-altern:active:hover, .btn-altern:active:focus, .btn-altern:active.focus, .btn-altern.active:hover, .btn-altern.active:focus, .btn-altern.active.focus, .open > .btn-altern.dropdown-toggle:hover, .open > .btn-altern.dropdown-toggle:focus, .open > .btn-altern.dropdown-toggle.focus {
+  color: #4fd2c2;
+  background-color: antiquewhite !important;
+  border-color: antiquewhite !important;
+}
+
+
+
+
+
+
+
+
 .btn-primary {
   color: #fff;
   background-color: #4fd2c2;
